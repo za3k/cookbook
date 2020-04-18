@@ -7,7 +7,7 @@
 # Split the pages
 rm -rf tmp-txt
 mkdir -p tmp-txt
-cat /home/zachary/documents/cookbook-2020.txt \
+cat ./cookbook-2020.txt \
   | sed -e "s|1/8|⅛|g" \
   | sed -e "s|1/4|¼|g" \
   | sed -e "s|1/3|⅓|g" \

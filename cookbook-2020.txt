@@ -1,0 +1,1783 @@
+Cookbook
+Zachary "Zak" Vance (za3k@za3k.com)
+Updated 2020-04-18
+===
+00 - Table of Contents
+
+Grain cook times........................01
+Vegetable cook times....................02 (detached)
+Meat cook times.........................03
+
+Biscuit, Angel Biscuits.................04
+Biscuit, Hard Tack......................05
+Bread, Cheese...........................06
+Bread, White............................06
+Burger, Grilled Portobello Mushroom.....07
+Burger, Ground Beef.....................08
+Cake, Blueberry Tart....................09*
+Cake, Cream Cheese Frosting.............10
+Cake, Plum Tart Crumble.................11
+Cake, Sacher Torte......................12
+Candy, Caramel..........................13
+Candy, Fudge............................14
+Chicken Cordon Bleu.....................15
+Chicken, Baked..........................16*
+Chicken, Rosemary.......................17
+Chickpeas, Falafel......................18*
+Chickpeas, Roasted......................19
+Chili, Cincinnati.......................20
+Cookies, Hais...........................21
+Cookies, Honey Oat Cakes................22
+Cookies, Lemon Squares..................23*
+Cookies, Peanut Butter..................24
+Cookies, Sugar..........................25
+Cookies, To Make an Excellent Cake......26
+Cookies, White Choc. Macadamia Balls....27
+Croquette, Mushroom.....................28
+Drink, Caffeine Shots...................29
+Drink, Coffee, Cold Brew................30
+Drink, Coffee, Not-Turkish..............31
+Drink, Cream Soda.......................32
+Drink, Gypsy Tea........................33
+Drink, Sekanjabin.......................34
+Falafel - See Chickpeas
+Gloop, Congee...........................35
+Gloop, Milkmete.........................36
+Ice Cream...............................37
+Lamb, Sikbaj............................38
+Lamb, "Slow-cooked".....................39
+Liver, Fried Chicken....................40
+Pasta, Ground Beef Stroganoff...........41
+Pasta with Tomato Sauce.................42
+Pasta with White Sauce..................43
+Popcorn.................................44
+Pork, Pulled............................45
+Potato, Baked...........................46
+Potato, Roasted.........................47
+Pretzel, Soft...........................48
+Quiche..................................49
+Quinoa, Curried.........................50*
+Rice, Basmati...........................51
+Salad, Corn.............................52
+Salad, Crunchy Thai.....................53
+Salad, Fish.............................54
+Salad, Tabouli..........................55
+Salmon, Baked...........................56
+Salmon, Blackened.......................57
+Salmon, Poached.........................58
+Sauce, 5-Layer Dip......................59
+Sauce, Guacamole........................60
+Sauce, Pesto............................61*
+Salt, Wine-infused......................62
+Shrimp, Boiled..........................63
+Smoothie, Fenn's........................64
+Soup, Cream of Cauliflower..............65
+Soup, Fennel Leek.......................66
+Soup, Peanut............................67
+Soup, Potato............................68
+Steak Tartare...........................69
+Steak, made-up..........................70
+Steak, Pan-broiled......................71
+Stew....................................72
+Stir-fried Noodles......................73
+Stir-fry, lemon pepper patties..........74
+Stuffed Bell Peppers....................75
+Waffles, Oat............................76*
+
+Zak's tip: Recipes with * are especially good
+===
+01 - Grain cook times
+
+Amaranth        1:2½       25-30 min
+Barley, pearled 1:3        45-60 min
+        pot                   90 min
+Buckwheat       1:2           20 min
+Couscous        1:1-1½         5 min
+Millet          1:3        20-25 min
+Oats,   rolled  1:3        10-25 min
+Quinoa          1:2           20 min
+    some needs washed first
+Rice,   white   1:2        10-20 min
+        brown              40-60 min
+        wild    1:3½          60 min
+Wheat,  bulgur  1:2            5 min
+        berries 1:3       90-120 min
+    aka cracked
+
+For all grains, bring them to a boil, then
+simmer for the time indicated.
+===
+02 - Veggie cook times
+Sources: How Stuff Works, MyFrugalHome.com
+
+Vegetable             Steam  Micr.   Blanch  Boil   Bake   S.Fry  Other
+Artichoke, whole      30-60   4-5/ea   x     25-40  60-90
+Artichoke, hearts     10-15   6-7     8-12   10-15  20-30  10
+Asparagus              8-10   4-6     2-3     5-12  15-20  5
+Beans, green           5-15   6-12    4-5    10-20  15-20  3-4
+Beans, lima           10-20   8-12    5-10   20-30  15-20
+Beets                 40-60  14-18     x     30-60  30-45
+Broccoli, spears       8-15   6-7     3-4     5-10                Blanch, bake
+Broccoli, flowerets    5-6    4-5     2-3     4-5   20-30  3-4
+Brussels sprouts       6-12   7-8     4-5     5-10  20-30  3-4*   *halves
+Cabbage, wedges        6-9   10-12     x     10-15  20-30         Stuff
+Cabbage, shredded      5-8    8-10     x      5-10         3-4
+Carrots, whole        10-15   8-10    4-5    15-20  30-45?
+Carrots, sliced        4-5    4-7     3-4     5-10  30-45? 3-4
+Cauliflower, whole    15-20   6-7     4-5    10-15
+Cauliflower, florets   6-10   3-4     3-4     5-8   20-30  3-4
+Corn, on cob           6-10   3-4     3-4     4-7   20-30*        *Soak 10
+Corn, cut              4-6    2/c    2½-4     3-4   30-30  3-4
+Eggplant, whole       15-30   7-10   10-15   10-15  30-40*        *halves
+Eggplant, diced        5-6    5-6     3-4     5-10  25-30
+Fennel                                              30-40
+Garlic, heads                                       35-40+
+Greens, kale/beet      4-6    8-10    4-5     5-8          2-3
+  others                x    18-20    8-15   30-60         4-6*   *mustard only
+Kohlrabi              30-35   8-12     x     15-30  30-45
+Mushrooms              4-5    3-4      x      3-4*  20-25  4-5    *in broth/wine
+Onions, whole         20-25   6-10     0     20-30  45-50
+  chopped/rings                        0            15-20
+  halves                               0            30-45
+  pearl               15-20   5-7     2-3    10-20                Braise 15-25
+Parsnips               8-10   4-6     3-4     5-10  30-45
+Peas, blackeye                                      15-20
+Peas, green            3-5    5-7     1-2     8-12  15-20  2-3
+Peppers, bell          2-4    2-4     0-3     4-5   15-20* 2-3    *Chopped
+Potatoes, whole       12-30   6-8      x     20-30  45-60*        *also ½s, ¼s
+Potatoes, diced       10-12   8-10     x     15-20  30-45
+Spinach                5-6    3-4     2-3     2-5          3
+Squash, winter (cut)                 cook           25-35
+Squash, whole           x     5-6      x     20-30
+  halves              15-40   6-10     x      5-10  25-35
+  cubes/quarters       5-10   3-6     2-3     5-10  15-20
+Sweet potato, rounds                                40-45
+  cubes/wedges                                      30-35
+Tomatillos, halves                                  20-25
+Tomatoes               2-3    3-4     0-2      x    40-45*        *halves
+  cherry/grape                                      20-25
+Turnips, whole        20-25   9-12     x     15-20
+Turnips, cubed        12-15   6-8     2-3     5-8   40-45  2-3
+Zucchini               5-10   3-6     2-3     5-10  20-25         Halve, broil 5
+
+- Blanching is quick boiling done to prep for freezing. 
+  Times may be wrong.
+- Boil in 0.5"-1" water (more if needed).
+- Bake/roasting times are for a 425°F oven.
+===
+03 - Meat cook times (the party line)
+
+Beef, ground        160°F  71°C                     
+Lamb, ground        160°F  71°C
+Pork, ground        160°F  71°C
+Beef, steak         125°F  52°C     Rare
+                    135°F  57°C     Medium Rare
+                    145°F  63°C     Medium
+                    150°F  66°C     Medium Well
+                    160°F  71°C     Well done
+Pork, loin/chop     145°F
+Pork, cutlets/ribs  until tender
+Lamb, all cuts      145°F
+Chicken, dark       165°F
+Chicken, light      160°F                           
+Fish                145°F
+
+Remove 5-10°F after the center of the meat reaches the
+correct temperature.
+
+E coli dies at 155°F.
+Salmonella dies at 160°F.
+Trichinosis dies at 137°F and is not common in US pork.
+===
+04 - Biscuit, Angel Biscuits
+Source: online, not folk school recipe
+
+  active dry yeast
+  ¼ c warm water
+  2 c warm buttermilk
+  5 c flour (all-purpose)
+  ⅓ c sugar
+  2 t salt
+  2 t baking powder
+  1 t baking soda
+  1 c shortening
+  melted butter
+
+1. Dissolve yeast in water. Let stand 5 minutes. Add
+   warm buttermilk.
+2. Combine other ingredients in bowl. Cut in shortening
+   until coarse crumbs. Stir in yeast mixture.
+3. Flour counter. Knead 3-4 times. Roll out to ½"
+   thickness. Cut with biscuit cutter, 2½" width. Put
+   on greased baking sheet.
+4. Cover + let rise in a warm place until doubled,
+   about 1 hour.
+5. Bake at 450°F for 8-10 minutes or until golden
+   brown. Brush tops with melted butter. Serve warm.
+===
+05 - Biscuit, Hard Tack
+
+  4-5 c flour
+  1½ c water
+  3 t salt
+
+1. Roll into ½" thick rectangle, cut into 3"x3"
+   pieces.
+2. Cook 30min/side at 375°F. Let dry for a few days.
+   Store, airtight.
+
+To eat: Soak in water or milk 15 min. Can fry.
+
+Zak's tip: I've never tried this.
+===
+06 - Bread, White
+Source: New Baking book, p344
+Makes: 2 loaves
+
+  6 c all-purpose flour
+  1 package active dry yeast
+  2 c milk or buttermilk or sour milk
+  2 T sugar
+  1 T butter or shortening
+  1½ t salt
+
+1. In a big-ass bowl, combine 2½ c flour and
+   yeast. Set aside.
+2. In a saucepan, heat milk, sugar, butter, and salt
+   until warm, stirring. Butter should almost melt.
+   Add to bowl.
+3. Mix, stir in the rest of the flour with a spoon.
+2. Turn dough into lightly floured surface. Knead in
+   any remaining flour to make smooth, elastic,
+   moderately stiff dough. 6-8 minutes total. Shape
+   dough into ball. Place in greased bowl, turning
+   once. Cover and leave in warm place to double in
+   size (45-60 minutes).
+3. Punch dough down. Divide in half if using full
+   recipe. Cover and let rest 10 minutes. Lightly
+   grease 8"x4"x2" loaf pans.
+4. Shape dough into loaves by patting into loaf shape.
+5. Place in loaf pan. Cover + let rise until doubled
+   again (30-40 min).
+6. Bake in 375°F oven about 40 minutes or until bread
+   sounds hollow when you tap the tops with your
+   fingers. (If necessary, cover with foil for the
+   last 10 minutes of baking to prevent overbrowning).
+   Remove from pans immediately. Cool.
+
+Bread, Cheese
+Source: Zachary
+  + 1-2 c grated cheese
+4. After punching down, roll flat and long. Sprinkle
+   generously with grated cheese. Roll up tightly like
+   a jelly roll, sealing the edges with your fingers.
+===
+07 - Burger, Grilled Portobello Mushroom
+
+Marinade
+  ¼ c balsamic vinegar
+  2 T olive oil
+  1 t dried basil
+  1 t oregano
+  1 T minced garlic
+  salt
+  pepper
+
+Burger
+  4 portobello mushroom caps
+  4 slices provolone cheese
+  burger buns
+  tomato
+  avocado
+
+1. Whisk together sauce.
+2. Soak mushrooms at room temperature for 15 minutes,
+   turning twice.
+3. Preheat to medium-high.
+4. Brush with oil. Add mushrooms. Grill 5-8 minutes on
+   each side, brushing with marinade. Top with cheese
+   in last 2 minutes.
+5. (Optional) Add other ingredients, burger buns.
+===
+08 - Burger, Ground Beef (Hamburger)
+
+  1 lb ground beef
+  ½ onion
+  ½ c cheese
+  1 t soy sauce
+  1 t worcestershire sauce
+  1 egg
+  1 T onion powder
+  1 clove garlic
+  1 T garlic powder
+  1 t dried parsley
+  1 t dried basil
+  1 t dried oregano
+  ½ t dried rosemary
+  salt
+  pepper
+
+1. Mix ingredients, make into thin patties with a divot
+   in the middle.
+2. Grill, 5 minutes to a side.
+3. Put on bread, add toppings.
+===
+09 - Cake, Blueberry tart
+
+  1 premade graham cracker crust
+  8 oz (1 package) cream cheese, soft(!)
+  ½ c mashmallow creme
+  ½ t lemon peel
+  3 c blueberries
+  ¼ c grape jelly
+
+1. Beat cream cheese until light.
+2. Add marshmallow creme and lemon.
+3. Put jelly on stove.
+4. Fill crust with cream cheese mixture. Add
+   blueberries on top. Brush with melted jelly.
+5. Serve chilled.
+===
+10 - Cake, Cream Cheese Frosting
+
+  ¼ c butter (soft)
+  8 oz cream cheese (soft) = 1 package
+  4 c confectioner's sugar
+  2 t vanilla extract
+
+Zak's tip: Let the cake cool before spreading
+===
+11 - Cake, Plum Tart Crumble
+Prep time: ~2 hr (pitting plums)
+
+  2 c flour
+  1½ stick butter (12 T), cubed
+  1 egg yolk
+  1½ lb plums, pitted
+  ¾ c brown sugar
+
+1. Mix flour, butter, egg, and sugar with a fork.
+2. Preheat oven to 400°F. In 9" pan, place crumb layer,
+   sprinkle remaining crumb.
+3. Cook 45 minutes.
+===
+12 - Cake, Sacher Torte
+Source: New Baking Book, p244
+
+Glaze
+  4 oz semisweet or bittersweet chocolate, chopped
+  2 T butter
+  2 t corn syrup
+  ½ c heavy cream
+Cake
+  6 eggs
+  5 oz semisweet or bittersweet chocolate, chopped
+  ½ c butter
+  1½ t vanilla
+  ½ c sugar
+  ¾ c flour
+  ⅔ c apricot preserves
+  springform pan
+
+1. Let egg whites stand at room temperature 30 minutes.
+   Grease + lightly flour springform pan. Set aside.
+2. In a saucepan, melt chocolate and butter. Cool. Stir
+   egg yolk+vanilla into cooled chocolate mixture. Set
+   mixture aside.
+3. Beat egg white with electric mixer on medium to high
+   until soft peaks form (tips curl). Add sugar
+   gradually, beating 4 min or until stiff peaks form
+   (tips stand straight).
+4. Fold about 1 c of the egg white mixture into the
+   chocolate mixture. Fold the egg whites and chocolate
+   back to the remaining egg white mixture. Add ⅓ the
+   flour over the mixture. ("Sift + gently fold in").
+   Mix. Ditto other thirds. Spread butter into prepared
+   pan.
+5. Bake in 350°F oven 35-40 minutes or until a wooden
+   toothpick inserted near center comes out clean.
+   Let cool completely. Remove spring form.
+6. In a saucepan, heat preserves until melted. Press
+   through sieve if there are chunks. Cool slightly.
+   Cut cake horizontally into 2 even layers using
+   toothpicks as markers. Set top aside. Add apricot
+   preserves over top. Replace top layer. Spoon
+   chocolate glaze over torte. Spread over sides if
+   possible. Let cool 1 hr at room temperature.
+===
+13 - Candy, Caramel
+
+  (1 t salt, optional)
+  2 c sugar
+  1 t vanilla (or 1 bean)
+  1½ c corn syrup
+  2 c heavy cream
+  1 c butter
+
+1. Combine sugar, corn syrup, 1 c cream, butter in
+   saucepan.
+2. Bring to a boil, stirring often. Add cream.
+3. Heat without stirring to 242F (116C). You can test
+   syrup in cold water (pliable but not stiff).
+4. Remove from heat and add vanilla and optionally
+   salt.
+5. Put in buttered pan, refrigerate.
+===
+14 - Candy, Fudge
+
+  3 c chocolate chips
+  1 can sweetened condensed milk
+  ¼ c butter
+
+1. Put ingredients in bowl. Microwave until melted (7
+   minutes). Stir.
+2. Pour into 8"x8" pan, refrigerate until set.
+===
+15 - Chicken Cordon Bleu
+Time: 70 min
+Makes: 5 servings (5 chicken breasts)
+
+  4-5 chicken breast halves
+  thinly sliced ham
+  aged swiss cheese
+
+Ziploc 1
+  ½ c flour
+Bowl 2
+  2 large eggs
+  1 T water
+Ziploc 3
+  1½ c dry bread crumbs
+  ½ t pepper
+  1 t salt    
+
+1. Mash chicken 3/8 in. thick, until it gives up and
+   is floppy.
+2. Place 1 slice ham, 1 slice cheese on chicken.
+3. Fold, trimming each packet with a knife.
+4. Prepare ziplocs/bowls/plates of dips. Bread.
+5. Prepare olive oil and butter mixture for frying,
+   brown butter.
+6. Cook chicken on medium-high. 3-4 minutes to a side.
+===
+16 - Chicken, Baked
+
+Dry rub
+    2 T brown sugar
+    1 t garlic powder
+    1 t onion powder
+    1 t cumin
+    1 t paprika
+    ½ t salt
+    ¼ t black pepper
+    ¼ t cayenne pepper
+
+Dish
+    dry rub
+    2 tbsp oil
+    1" pieces of chicken, or whole wings
+
+1. Pre-heat oven to 400°F
+2. Mix dry rub
+3. Put wings in a bowl. Drizzle over oil.
+4. Add rub, make sure they are coated.
+4. Bake for 45-50 minutes.
+
+Zak's tip: A metal tray is useful for adding the
+  rub and to avoid oil washing the juices off while
+  cooking.
+Zak's tip: For an intense rub, leave out brown sugar.
+===
+17 - Chicken, Rosemary
+Source: Mama
+
+  1.5 lb chicken
+  2 T olive oil
+  4 cloves garlic
+  3 T rosemary
+  1 lemon (zest)
+  grill seasoning OR salt, pepper
+  ½ c wine OR chicken broth
+  1 lemon (juice)
+
+1. Cut chicken into chunks. Toss with oil in baking
+   dish.
+2. Preheat oven to 450°F.
+3. Add garlic, rosemary, lemon zest, spices. Toss
+   chicken, cover dish, cook 20 minutes.
+4. Add wine and lemon juice.
+5. Leave uncovered in oven 5 min.
+===
+18 - Chickpeas, Falafel (real)
+
+1. Soak chickpeas overnight
+2. Dry
+
+  1 c soaked chickpeas, food processed
+  ½ t salt
+  ¼ t cumin
+  ¼ t turmeric
+  ½ t garlic powder
+  1 T wheat flour, chickpea flour, or corn starch
+
+1. Mix thoroughly with fork.
+2. In ¼ c olive oil, fry falafels.
+3. Turn once, until crispy on both sides.
+
+18 - Chickpeas, patties
+
+  cooked chickpeas
+  corn starch
+  garlic
+  onions
+  cumin seeds
+  curry
+
+1. Mash chickpeas with a fork or food processor into
+   a paste.
+2. Add ingredients, mix.
+3. Fry as 1cm thick patties (very thin).
+4. Sprinkle on extra garlic powder and optionally salt.
+
+Zak's tip: These fall apart but everybody like them.
+===
+19 - Chickpeas, Roasted
+Makes: 4 servings (2 c)
+
+  3 c chickpeas
+  olive oil
+  salt
+  pepper
+  (optional) other spices
+
+1. Cook chickpeas. Pat dry. If from a can, rinse first.
+2. Spread on a foil-lined pan. Coat in oil.
+3. Cook at 400*F for 30 min. Shake every 10 min.
+4. Cover in spices.
+===
+20 - Chili, Cincinnati
+Makes: A lot
+
+  1 (6-oz) can of tomato paste
+  3 T cacao powder
+  5 c water
+  ¼ t cinnamon
+  1 (2) t garlic powder
+  1 t cumin
+  ¼ t allspice
+  ¼ t ground cloves
+  ¼ t red pepper flakes
+  ⅛ t black pepper
+  ¾ t salt
+  ½ t sugar
+  2 T apple cider vinegar
+  1¼ lb lean ground beef
+  5 c water
+
+1. Add water, tomato paste, chocolate. Stir with
+   whisk to combine.
+2. Add spices.
+3. Crumble in ground beef, stir with whisk.
+4. Boil. Turn down to med-low. Cook uncovered 1-1½
+   hours.
+
+How to eat. Combine
+  seared hot dog in a bun OR thin spaghetti
+  very finely grated cheese
+  tabasco sauce
+  (optional) raw onion, diced
+  (optional) beans, cooked
+
+Zak's tip: (untested) You need 100% lean beef, the fat
+  otherwise absorbs the chili spices, leaving a boring
+  liquid and a fiery-hot fat layer congealed on top.
+
+  Cook the beef first, and skim the fat off the top.
+  Put the cooked beef through a food processor, and
+  return to the liquid.
+
+  Or if that's too hard, mix them or take a bit of both
+  when serving.
+===
+21 - Cookies, Hais
+Source: A Miscellany, p101
+Makes: ~40 Hais
+
+  1 ⅓ c bread crumbs
+  1 c pitted dates (1lb), cut up with scissors
+  ¼ c almonds, ground in food processor
+  ¼ c pistachios, ground in food processor
+  3 T melted butter or sesame oil
+
+1. Mix everything (in food processor if available). 
+2. Roll into 1" balls, using extra water if necessary.
+3. Let dry.
+
+Zak's tip: These keep forever but they get stale--you
+  might want to halve it.
+===
+22 - Cookies, Honey Oat Cakes
+
+  12 oz rolled oats
+  8 oz butter
+  8 oz honey
+  pinch salt
+
+1. Melt butter.
+2. Add salt, honey, oats. Stir.
+3. Spoon onto baking tray, press down.
+4. Bake at 325°F for 30 min until golden brown.
+5. Cool a few minutes, then split into squares. Serve
+   when cold.
+
+Zak's tip: Find a new recipe, these ended up soupy.
+===
+23 - Cookies, Lemon Squares
+Source: Sally's Baking Addiction.com
+Makes: 24 (1"x2") bars
+Prep 10 min / Cook 40 min
+
+Crust
+  1 c butter = ½ lb = 2 sticks
+  ½ c sugar
+  2 t vanilla
+  ½ t salt
+  2 c flour
+
+Filling
+  2 c sugar
+  6 T flour
+  6 eggs
+  1 c lemon juice (~4 lemons)
+
+1. Preheat to 325°F/163°C. 9"x13" pan, parchment paper
+   with edges.
+2. Mix crust, adding flour last. Press into pan.
+3. Bake 18-20 minutes, until very lightly browned.
+4. Pour filling. Bake 22-26 minutes. Cool 2 hours,
+   refrigerate.
+
+Can be frozen 3-4 months. Keeps 1 week.
+===
+24 - Cookies, Peanut Butter
+Source: New Baking Book p194
+
+  ½ c butter, room temperature
+  ½ c peanut butter
+  ½ c granulated sugar
+  ½ c packed brown sugar or ¼ c honey
+  ½ t baking soda
+  ½ t baking powder
+  1 egg
+  ½ t vanilla
+  1¼ c flour
+
+1. Mix butter and peanut butter thoroughly. Add sugar,
+   brown sugar, baking soda, baking powder. Beat in egg
+   and vanilla. Add flour.
+2. Shape dough into 1" balls (about a spoonful).
+   Put on ungreased cookie sheets, then flatten twice
+   with a fork.
+3. Bake at 375°F for 7 to 9 minutes.
+===
+25 - Cookies, Sugar
+
+  3 c flour
+  1 t baking soda
+  ½ t baking powder
+  1½ c white sugar
+  1 egg
+  1 t vanilla extract
+  1 c butter
+
+1. Preheat to 375°F.
+2. Mix dry ingredients.
+3. Cream together butter, sugar, egg, vanilla. Add dry
+   ingredients.
+4. Bake 8-10 minutes on ungreased cookie sheet.
+===
+26 - Cookies, To Make an Excellent Cake
+Source: A Miscellany, p102 (omitted yeast)
+
+Cake
+  2 c flour
+  1½ sticks butter
+  2 c currant jelly
+  ¼ t cloves
+  ¼ t mace
+  ½ t cinnamon
+  ¼ t nutmeg
+  ½ T sugar
+  2 T rum
+
+Icing
+  2 t egg white
+  2 T sugar
+
+1. Mix cake ingredients. Stir until smooth. 
+2. Bake at 350°F for 40 minutes.
+3. Remove from pan and brush rum on top. Add icing.
+   Cut into bar cookies.
+
+Zak's tip: This cake doesn't rise, it's cookie bars.
+===
+27 - Cookies, White Choc. Macadamia Nut Energy Balls
+Source: Sammy (original tennislifemag.com)
+
+  2 c quick oats
+  ½ c white chocolate chips, roughly chopped
+  ⅔ c coconut flakes
+  ½ c peanut butter
+  ½ c honey
+  ½ c macadamia nuts, chopped
+  1 t vanilla
+  1 T chia
+  1 T ground flaxseed
+  ¼ t salt
+
+1. Mix. Refrigerate 1 hour.
+2. Roll into 30 balls.
+3. Refrigerate for up to 1 week (or freeze).
+===
+28 - Croquette, Mushroom
+Makes: 5 croquettes
+
+Bechamel sauce
+  1 T butter
+  1 T flour
+  ½ c milk
+
+Croquettes
+  ½ t worcestershire sauce
+  ⅛ t curry powder
+  1 slightly beaten egg
+  2 T cracker crumbs
+  1 c chopped mushrooms
+  ½ t salt
+  ¼ t paprika
+  breading
+
+1. Make Bechamel sauce, remove from heat.
+2. Add other ingredients.
+3. Chill. Form into 1"x1"x2½" pieces, roll in
+   flour, then egg, then bread crumbs. Let dry, repeat.
+4. Fry croquettes.
+===
+29 - Caffeine Shots
+Makes ~300ml, 10mg/mL (~2.5% by weight).
+
+Safety note: Label clearly with a poison warning.
+Safety note: Coloring is to stop people thinking it's
+  water, etc.
+Safety note: Don't put it all in one container, this
+  is enough to kill you or send you to the hospital.
+
+  3 g caffeine, as powder
+  1 T sugar = 15g
+  1 t citric acid = 1.5g
+  300 ml water
+  1 green food coloring drop
+  3 yellow food color drops
+
+Recommended dose: 50mg = 5mL per vial, about the same
+  as a can of soda.
+===
+30 - Drink, Coffee, Cold Brew
+Source: Zachary, 2019-11-20. Based on recipes with
+  ground beans.
+Makes: About 3 c
+
+  100 g whole roasted beans
+  1 quart jar
+
+1. Put beans in jar
+2. Fill with water
+3. Wait 3 days
+4. Filter beans out
+
+Experimentation notes
+- Tried grinding beans on 2 machines, tasted burnt.
+- Ground coffee needs at least 3x less coffee,
+  it's much stronger.
+- Haven't tried pre-ground coffee.
+- Tried freeze distillation. Lost all coffee flavor.
+- Tried evaporation. Lost all coffee flavor.
+- Tried low-simmer boiling. 10x tastes burnt. 5x is
+  worth trying again.
+- Measuring concentration by color worked best. pH
+  does not work.
+===
+31 - Drink, Coffee, Not-Turkish
+
+For each cup of coffee
+  1 t sugar
+  1 turkish cups water, ~2.5 fl oz
+  1 t sugar
+  1 t coffee
+
+1. Add water.
+2. Bring to a boil.
+3. Add coffee.
+4. Add sugar.
+5. Bring near a boil again.
+6. Immediately take off heat.
+
+Zak's tip: This is easy to burn.
+===
+32 - Drink, Cream Soda
+
+Simple Syrup
+Boil
+  1 c water
+  1 c sugar
+
+Vanilla Syrup
+Add
+  3 T vanilla
+
+Cream Soda
+Combine
+  1 oz vanilla syrup
+  1 oz cream
+  5 oz soda water
+===
+33 - Drink, Gypsy tea
+Source: Sammy
+
+  2 oranges
+  3 lemons
+  13 cloves, whole
+  1 T ground allspice
+  ½ cinnamon stick
+  3 T black tea
+  8 c boiling water
+  1¼ c sugar
+
+1. Squeeze fruits + set aside juice.
+2. Put rinds, spices, tea in pot.
+3. Pour over boiling water. Steep 10 minutes. Strain.
+4. Add fruit juice + sugar.
+Serve hot or iced.
+===
+34 - Drink, Sekanjabin
+Source: Miscellany, p132
+
+  2½ c water
+  4 c sugar
+  1 c wine vinegar (red wine is tasty)
+  mint
+
+1. Dissolve sugar in water. Bring to a boil. 
+2. Add vinegar. Open a window. Simmer ½ hour.
+3. Take off burner, add mint. Strain back out mint.
+
+To drink, dilute to taste. Good hot or cold.
+
+Zak's tip: This is okay to keep unrefrigerated and
+  sealed for months.
+===
+35 - Gloop, Congee
+Keeps: 1 day only
+
+  75g jasmine rice
+  marinade in:
+    ¼ t oil
+    ¼ t salt
+  5 c water
+  1 T spring onion
+  saltines
+  (optional) 1 egg OR
+  (optional) 1 century egg, diced OR
+  (optional) 100g salt pork
+      that's 100g lean pork soaked in 1 t salt
+
+1. Rinse jasmine rice until it is clear.
+2. Marinade jasmine rice 15-30 min.
+3. Boil water.
+4. Add marinated rice, stir.
+5. Boil 10-15 minutes, turn to low. Simmer 30-40
+   minutes until rice is mushy + soup is milky.
+5. Add egg, pork. Simmer a few minutes on medium,
+   stirring.
+6. Season with salt, pepper, onion. Crumble a saltine
+   into it.
+
+Zak's tip: Freeze the rice to cook faster.
+Zak's tip: You need to add at least one optional thing.
+===
+36 - Gloop, Milkmete
+Source: A miscellany, p130
+
+  3 c milk
+  ¾ c flour
+  4 egg yolks
+  4 T sugar
+  ¼ t salt
+
+1. Mix flour and milk thoroughly, removing lumps. Force
+   through strainer. Dissolve lumps that didn't go
+   through and repeat.
+2. Bring to a low simmer on medium to medium-low heat
+   (~10 minutes). Simmer ~5 minutes, stirring.
+   constantly with a whisk.
+3. Remove from heat, let cool ½ hour to 125°F. Beat
+   egg yolks with salt, add to pot and stir in
+   thoroughly with a whisk.
+Heat about 10 minutes, bringing it to near a boil.
+Add sugar and serve.
+
+Zak's tip: This is disgusting.
+===
+37 - Ice Cream
+Source: mama + dada
+
+  2 c half-and-half
+  ¾ c sugar
+  1 t vanilla extract
+
+  road salt / ice cream salt
+  1 big and 1 small coffee can
+
+1. Mix ingredients, put in small coffee can.
+2. Surround with ice + road salt layers in outside can.
+3. Roll it around for 15-30 minutes. Can pop in the
+   freezer at some point.
+
+Dada's tip: Add chopped strawberries as mix starts
+  solidifying.
+===
+38 - Lamb, Sikbaj
+Source: A Miscellany, p33
+
+  2 lb pork or lamb
+
+Cut meat in ½" cubes. Bring to a boil with
+  3 c water
+  1 stick cinnamon bark
+  ½ t salt
+  1 t coriander
+Remove froth (try not to remove too many spices). After
+20 minutes, add
+  2 leeks, chopped
+  5 carrots, chopped
+  6 small white onions, quartered
+Boil 50 minutes. Add
+  ¼ oz cilantro
+  ½ t cinnamon
+  ½ t pepper
+  1 t cumin
+  1 t salt
+simmer ½ hour. Mix vinegar and honey, add and simmer
+10 more minutes.
+  ⅓ c wine vinegar
+  ⅓ c honey
+Cover, let sit 15 minutes on low heat.
+  20 split almonds
+  2 T raisins or currants
+  2 T figs
+Serve.
+
+Zak's tip: This is a super-sweet meat dish.
+===
+39 - Lamb, "Slow-cooked"
+Source: Zachary, 2019-11-20
+½ hr prep, 3 hr cook, 1 hr clean
+
+  2-3 lb lamb chops
+  5 potatoes, chopped
+  1 head garlic, peeled + chopped roughly
+  mushrooms or mushroom Better Than Bouillon
+  salt
+  pepper
+  rosemary
+  ½ onion, yellow
+  4 c water
+
+1. Cook in pressure cooker at "2" (10psi) for 3 hours.
+   Or, actually slow-cook, turning sometimes, for
+   at least 6 hours.
+===
+40 - Liver, Fried Chicken
+Keeps: 1 day, can't be frozen
+
+  6 chicken livers (halved)
+  flour
+  salt
+  pepper
+  (optional) ¼ onion
+  butter
+
+1. Saute onion in butter until golden brown.
+2. If needed, remove veins and membranes from livers,
+   halve. 
+3. Season livers with salt+pepper. Dip in eggs and
+   flour to coat.
+3. Fry 1 minute to a side on low heat (2 for medium) in
+   fresh butter. Discard butter between batches (may
+   be bitter).
+
+Zak's tip: Chicken liver is much tastier medium-done
+  than cooked all the way.
+===
+41 - Pasta, Ground Beef Stroganoff
+
+  1 lb ground beef
+  ¾ lb mushrooms, sliced
+  1 onion, diced
+  1 clove garlic, minced
+  3 T flour
+  2 c beef broth
+  2 t worcestershire sauce
+  salt
+  pepper
+  ¾ c sour cream
+  2 T fresh parsley
+
+1. Cut onions, garlic, and mushrooms.
+2. Brown onion, garlic, and beef. Drain fat. Add
+   mushrooms, cook 2-3 minutes.
+   Stir in flour, cook 1 more minute.
+3. Add broth, worcestershire sauce, salt, and pepper.
+   Boil and simmer 10 min. Remove from heat.
+4. In another pot, cook egg noodles.
+5. Add sour cream, parsley to beef mixture.
+===
+42 - Pasta with Tomato Sauce
+
+  spicy italian sausage OR ground beef
+  crushed red pepper
+  black olives
+  onion
+  garlic
+  tomato sauce
+
+1. Cook spaghetti.
+2. Cook olives and garlic briefly.
+3. Add beef, onion, and cook.
+4. Add tomato sauce. Serve.
+===
+43 - Pasta with White Sauce
+
+Cook
+  12 oz pasta
+
+Add white sauce:
+  ½ c half-and-half
+  salt
+  pepper
+  1½ c ricotta
+
+any of
+  spinach, cooked
+  chickpeas
+  herring
+  broccoli
+===
+44 - Popcorn
+
+  popcorn, large kernels
+  high-smoke point oil, like vegetable oil
+
+  melted butter OR vegetable oil
+
+1. Pop popcorn in a large pot, jiggling it so nothing
+   burns.
+2. Slowly pour melted butter or oil over the popcorn.
+   You need some added oil for any seasonings to stick.
+   Put the lid on the pot and shake to coat.
+3. Add any seasoning and shake again thoroughly.
+
+Suggested spices
+  salt
+  garlic powder
+  cheese powder
+  paprika (opt. with chili)
+
+Zak's tip: If your pot isn't big enough to mix in, you
+  can put saran wrap over a big bowl using a rubber
+  band.
+===
+45 - Pork, Pulled
+
+  pork shoulder
+  salt
+  pepper
+  cheap beer
+  onion
+  garlic
+  jalapeno
+  cumin
+  paprika
+  tomato paste      
+  mustard powder
+  bay leaves
+
+1. Salt and pepper pork shoulder.
+2. Open a window. Burn the shit out of it. 4min/side
+   minimum.
+3. Cover with cheap beer (lots).
+4. Add everything else.
+5. Simmer 6-8 hours, ladling liquid over the top every
+   hour if not covered entirely in beer.
+
+Zak's tip: Use a pressure cooker to get a similar
+  result faster. See Lamb, "Slow-cooked".
+===
+46 - Potato, Baked
+Source: Joy of cooking, p292
+Source: thekitchn.com
+
+Baked Potato
+1. Wash + dry potato. Grease with butter or rub in oil.
+   Stab with a fork all over.
+2. Cook at 425°F for 60 minutes.
+3. Add toppings.
+
+English "Jacket" Potato
+1. Wash + dry potato. Grease with butter, and slice a
+   cross into it.
+2. Cook at 400°F for 120 minutes.
+3. (Optional) Take out, slice deeper, cook 10 more
+   minutes.
+4. Add toppings.
+
+Toppings
+  butter
+  sour cream
+  chives or parsley
+  bacon
+  cheese Sauce (below)
+
+Cheese Sauce
+  2 T butter
+  3 T flour
+  1½ c milk
+  4 c grated cheese
+  ½ t salt
+  ⅛ t paprika
+  cayenne
+  ½ t dry mustard
+===
+47 - Potatoes, Roasted
+
+  potatoes, cut into 2cm pieces
+  olive oil
+  salt
+  pepper
+  rosemary
+
+1. Cover potatoes in oil and spices.
+2. Cook at 400*F for 45 minutes. Turn halfway.
+
+Zak's tip: If you want crispier potatoes, try smaller
+  pieces or frying.
+===
+48 - Pretzel, Soft
+
+1. Combine
+     1½ c flour
+     1 package active dry yeast
+2. In a medium saucepan, heat until warm
+     1½ c milk
+     ¼ c sugar
+     2 T cooking oil
+     1 t salt
+3. Add warm mixture to bowl, beat well. Using a spoon,
+   stir in 
+     2½-3 c flour
+4. Turn dough into lightly floured surface. Knead.
+   Shape into a ball. Place in a lightly greased bowl,
+   turning once. Cover + let rise (about 75 min).
+5. Punch dough down. Turn out, cover let rise 10 min.
+   Lightly grease baking sheets.
+6. Roll into 12"x10" rectangle. Cut into twenty
+   12"x½" strips. Pull out into 16" strips, shape
+   into pretzels.
+7. Place pretzels on sheet. Bake at 475°F for 4
+   minutes. Reduce oven to 350°F.
+6. Boil in a wide pot
+     6 c water
+     2 T salt
+   Lower 3-4 pretzels into pot at a time. Boil 2
+   minutes, turning once. Drain on paper towels. Put on
+   greased baking sheets, ½" apart.
+7. In a small bowl stir egg white with water. Brush
+   pretzels with
+     1 egg white, slightly beaten
+     1 T water
+   Add any toppings:
+     salt
+     butter
+     minced garlic
+     cayenne pepper
+8. Bake at 350°F for 20-25 min, or until golden.
+   Let cool.
+===
+49 - Quiche
+
+Pie Crust
+  1 c flour
+  ½ t salt
+  ⅓ c shortening
+  2½ T water
+
+1. Sift flour + salt.
+2. Add ½ shortening, work with hands until like
+   cornmeal. Add ½ shortening in pea sized bits with
+   pastry cutter.
+3. Roll the dough.
+
+Quiche
+  ¼ lb bacon, sliced
+  2 c milk or cream
+  3 eggs
+  ¼ t salt
+  ⅛ t white pepper
+  nutmeg
+  1 t chives
+  ½ c cheese (diced swiss)
+
+1. Cook bacon, dry well.
+2. Scald milk.
+3. Beat in eggs, spices.
+4. Add bacon to pie, along with cheese.
+5. Pour custard.
+6. Bake 35-40 min at 375°F.
+
+Notes:
+Takes a really long time to dry enough, listed time
+  is not enough. Find a recipe with less milk/liquid
+===
+50 - Quinoa, Curried
+Makes: 2 servings (4 c)
+
+  1 onion
+  2 cloves garlic
+  1 c dry quinoa
+  2 c broth (clam)
+  1 T curry powder
+  1 t cayenne
+  salt
+  pepper
+
+1. Saute onion 2 minutes. Add quinoa, garlic. Saute 3
+   more minutes.
+2. Add broth, spices. Bring to boil, then 
+   simmer for 25 minutes (until quinoa dries).
+
+Zak's tip: Some quinoa needs washed first, some doesn't
+===
+51 - Rice, Basmati
+Source: Sammy
+
+  3 c rice
+  3 c water
+  ¼ t turmeric
+  1 t salt
+  4 whole cloves
+  2 cloves garlic (optional)
+  1 cinnamon stick, 1" long
+  ¼ c (half stick) butter
+  chives / green onions (garnish)
+
+1. Rinse rice.
+2. Fry spices w/oil for about 1 minute. Add rice and
+   stir 1 more minute.
+3. Add water, bring to boil, and cover. Turn to very
+   low simmer, 20 minutes.
+4. Fluff with a fork & add butter, cut into "pats" to
+   melt faster. Garnish with chives or green onions.
+===
+52 - Salad, Fenn's Corn
+Source: Fenn
+
+Microwave
+  1 piece butter
+  1 c corn, thawed
+Stir in
+  dill
+  cumin
+  Better Than Bouillon mushroom
+  3 stalks baby bok choy, chopped
+  (optional) cayenne to taste
+  garlic powder
+
+Zak's tip: I've never tried this.
+===
+53 - Salad, Crunchy Thai
+From: Sammy (originally Jessica Gavin)
+
+  2 c kale, thinly sliced
+  1½ c napa cabbage, thinly sliced
+  1½ c red cabbage, thinly sliced
+  ½ bell pepper
+  ⅓ c carrot, shredded
+  1 mango, thinly sliced
+  ¼ c cilantro, chopped
+  8 mint leaves, thinly sliced
+  1 T green onions, thinly sliced
+  ¼ c peanuts, roasted, roughly chopped
+  salt
+  pepper
+
+Peanut dressing
+  ⅔ c peanut butter, smooth
+  4 T lime juice
+  6 T honey or maple syrup
+  3 T rice wine vinegar
+  3 T soy sauce
+  [2 t sesame oil]
+  2 t sriracha
+  1 t ginger, minced
+  2 cloves garlic, roughly chopped
+  2 T water
+
+1. Puree dressing (or mix).
+2. Mix salad, add dressing. Season with salt + pepper.
+
+Zak's tip: I have never tried this.
+===
+54 - Salad, Fish
+Source: Fenn
+
+  bok chok
+  spinach OR bok choy
+  quinoa
+  canned salmon OR herring
+===
+55 - Salad, Tabouli
+
+  150g or 2 bunches parsley
+  6 green onion
+  4 tomatoes
+  3 lemons' juice
+  5 T olive oil
+  1 c bulgur wheat
+  1 c water, boiled
+  salt
+  pepper
+
+1. Mix bulgur and boiling water. Let cool.
+2. Chop the rest. Mix.
+3. After bulgur is chilled, fluff and add other
+   ingredients. Serve.
+===
+56 - Salmon, Baked
+
+Baked salmon
+  2 (6-oz) salmon fillets
+  6 T olive oil
+  2 cloves garlic, minced
+  1 t dried basil
+  1 t salt
+  1 t black pepper
+  1 T lemon juice
+  1 T parsley, fresh, chopped
+
+1. Marinade fish in spices for 1hr in fridge. Turn if
+   needed.
+2. Preheat to 375°F.
+3. Cover in aluminium foil, marinade, seal. Place in
+   glass dish, bake 35-45 minutes.
+===
+57 - Salmon, Blackened
+  2 T paprika
+  1 T cayenne
+  1 T onion powder
+  2 t salt
+  ½ t white pepper
+  ½ t black pepper
+  ¼ t dry thyme
+  ¼ t dry basil
+  ¼ t dry oregano
+  4 salmon fillets, skin+bones removed
+  ½ c butter, melted
+
+1. Mix spices in a small bowl.
+2. Brush salmon fillets with half the butter on both
+   sides. Sprinkle with spice mixture.
+   Drizzle with half remaining butter in pan.
+3. Open a window. Cook salmon butter-side down until
+   blackened, 2-5 minutes. Flip, drizzle with rest of
+   butter, blacken.
+===
+58 - Salmon, Poached
+
+1. Boil water
+2. Pour it over salmon
+3. Simmer 10 minutes
+
+Bechamel sauce
+  2 T butter
+  1 t flour
+  1 c milk
+  (optional) anchovy paste, don't recommend here
+
+1. Melt butter.
+2. Add flour, mix.
+3. Add milk.
+4. Cook until thicker, stirring constantly.
+===
+59 - Sauce, 5-Layer Dip
+
+  1 packet taco seasoning
+  1 can refried beans
+  1 c = 8 oz sour cream (can be 16)
+  1 package = 8 oz cream cheese
+  8 oz salsa
+  1 c butter lettuce
+  green onions, some
+  black olives
+  1 c diced tomato
+  cheese, shredded
+===
+60 - Sauce, Guacamole
+
+  1 mashed avocado
+  1 chopped avocado
+  1 T lemon juice
+  1 T salsa
+  ½ t chili powder
+  ½ t chopped garlic
+  pinch cayenne
+  salt
+  pepper
+  3" scallion or green onion
+
+Zak's tip: An open-face guacamole on sourdough sandwich
+  is delicious.
+===
+61 - Sauce, Pesto
+Keeps: ~1 week in fridge, try freezing
+
+  2 c basil (press down and pack, not tightly)
+  2 cloves garlic
+  ⅔ c olive oil
+  ½ c parmesan cheese
+  salt
+  pepper
+  no pine nuts because they're gross
+
+1. Remove basil stems.
+2. Blend all ingredients.
+===
+62 - Salt, Wine-infused
+
+  1 bottle of dry red wine
+  1-3 c salt
+
+1. Boil until it's really low.
+2. Put in the oven on lowest heat setting, checking
+   back regularly to get the rest of the moisture out.
+
+Zak's tip: I never made this. I tried with white wine,
+  anything with sugar definitely will not work.
+===
+63 - Shrimp, Boiled
+Source: Zachary/Fenn
+
+  shrimp, raw
+
+1. Unthaw and peel shrimp.
+2. Boil water (more than needed for thermal mass).
+3. With a sieve or other small dipper, cook in batches
+   of no more than a dozen, 30 seconds each.
+Shrimp are good plain or dipped in melted butter.
+
+This is way better than the overcooked cooked shrimp
+you can buy.
+===
+64 - Smoothie, Fenn's
+
+  1½ c milk
+  1½ T whey protein
+  2 T buttermilk powder
+  (optional) ½ T psyllium husk
+
+1. Add milk, lowest speed with no center.
+2. Add spirulina, any powders on low.
+3. Add frozen banana in chunks, moving from low to
+   high for each.
+3. Add spinach on high.
+
+Zak's tip: It's not that tasty? But probably good for
+  you.
+===
+65 - Soup, Cream of Cauliflower
+Source: Alicorn, Improvisational Soup
+Makes: 4 servings
+
+  1 cauliflower
+  1 onion
+  1 potato
+  Better Than Bouillon (veggie)
+  lots of garlic
+  heavy cream
+  salt
+  white pepper
+
+1. Roughly chop veggies. Add water to cover. Add BTB.
+2. Boil until soft.
+3. Blend some.
+4. Add cream, salt, pepper to taste.
+===
+66 - Soup, Fennel Leek
+Makes 7 servings (14 c)
+
+  2 c leeks, sliced
+  2 c fennel, sliced
+  2 T butter
+  2 lb red potatoes, ½" pieces
+  7½ c broth
+  heavy cream
+
+1. Saute leeks and fennel.
+2. Add broth and potato. Boil. Simmer 25 min.
+   until potatoes are very tender.
+3. Blend, season. Garnish with fennel fronds.
+4. Serve with heavy cream.
+===
+67 - Soup, Peanut
+Source: Mama (originally from Moosebook Cookbook)
+
+Cook (saute)
+  2 T butter
+  2 garlic cloves
+  1 onion
+  2 t grated ginger
+Add
+  2 c water
+  Better than Bouillon (any)
+  1 c chopped/smashed peanuts
+  1 t salt
+  ¼ t cinnamon
+  ¼ t ground cloves
+  ¼ t cardamom
+  ½ T mustard
+  ½ t turmeric
+  1 t cumin
+  ½ c peanut butter
+Before serving, add
+  1½ c buttermilk
+
+1. Chop onion, potato, garlic cauliflower.
+2. Add water to cover. Add BTB.
+3. Boil until soft.
+4. Blend.
+5. Add cream, salt, pepper to taste.
+
+Zak's tip: Cultured buttermilk keeps making me sick.
+ You can also use normal milk.
+===
+68 - Soup, Potato
+
+Saute
+  2 T butter
+  1 large onion, diced
+  5 celery stalks
+Add
+  ½ t salt
+  ½ bay leaf
+  water to cover
+Beat up with
+  2 T butter
+Add
+  6 c stock (1 T Better Than Bouillon veggie)
+  4 medium potatoes, chopped
+  ½ t salt
+  ½ t worcestershire sauce
+  heavy cream
+===
+69 - Steak Tartare
+Source: Zachary, Tricia
+
+1. Dice finely and combine
+     3 T olives
+     4 T olive oil
+     3 t brown mustard
+     2 T red onion
+     crushed red pepper
+     (optional) 1 T capers
+2. Take 
+     8-10 oz very fresh raw steak
+   Remove fat and tendons from steak. Season lightly
+   with salt and pepper. Sear lightly on all sides if
+   you're a wuss.
+3. Slice steak into very thin strips, then keep slicing
+   that into tiny bits. Pile steak in bowls.
+4. To each bowl, add diced mixture and
+     olive oil
+     (optional) 1 raw egg yolk, from washed egg
+Serve cold.
+
+Zak's tip: Raw eggs are more dangerous than raw steak.
+===
+70 - Steak, Made-up
+Source: Zachary from various recipes
+
+Pan-fry steak, searing both sides.
+
+Bake steak in the oven with
+  butter
+  1 T chives
+  1 T parsley
+  1 sprig rosemary
+  2 T kosher salt
+  2 T olive oil
+  2 t pepper
+
+Use the burnt bits on the pan and make a sauce adding
+  dry red wine
+  shallot
+  1 sprig sage
+  1 T butter
+  salt
+
+Pour sauce over the steak.
+===
+71 - Steak, Pan-Broiled
+
+Maitre'd Hotel butter
+  ¼ c butter (soft)
+  ½ t salt
+  ⅛ t pepper
+  1 t chopped parsley
+  1-1½ T lemon juice
+
+1. Sear steak 1 minute on each side in a pan.
+2. Cook 7 minutes on medium (ish) for 1" steak.
+3. Add any salt.
+
+Add one of
+  maitre'd hotel butter (above)
+  pre-made balsamic glaze
+===
+72 - Stew
+Makes: 6 servings
+
+  3 pounds beef (marbled), 1½" pieces
+  salt
+  pepper
+  olive oil
+  2 yellow onions, 1" chunks 
+  7 cloves garlic, smashed
+  2 t balsamic vinegar 
+  ¼ c flour
+  1½ t sugar
+  2 c dry red wine (mandatory)
+  4 c water as clam broth (other broth ok)
+  2 bay leaf
+  ½ t dried thyme
+  4 carrots, as 1" pieces
+  1 lb white potatoes, as 1" pieces
+
+1. Use dutch oven. dry, season, and sear beef in 3
+   batches, 5-8 minutes/batch.
+2. Preheat oven to 325°F.
+3. Remove meat. Add onions, garlic. Stir 5 min.
+4. Add flour, broth, spices. Cover, braise 2 hours.
+5. Add carrots and potatoes. Cook 1 hour.
+===
+73 - Stir-fried Noodles
+Makes: 2 servings
+
+  1 package egg noodles
+  white mushrooms, sliced
+  soy sauce
+  (optional) corn, frozen or canned
+  (optional) peas, frozen
+  (optional) broccoli, frozen
+  (optional) egg
+  (optional) diced meat
+
+1. Boil egg noodles until done. Strain.
+2. Add any frozen vegetables to the pain until thawed.
+3. Add any raw egg, scramble as it cooks.
+2. Stir-fry noodles in a pan, adding soy sauce
+   immediately. Once drier, remove from heat.
+4. Add sliced raw mushrooms. Add additional soy sauce
+   if wanted.
+===
+74 - Stir-fry, lemon-pepper patties
+Source: Zachary, based on A Miscellany, p44 (Maqluba)
+
+Slice up
+  10 oz steak
+Pat on
+  2 T lemon pepper
+Stir-fry. Sprinkle on and let dry:
+  1 T lemon juice
+Add 
+  ½ c water
+  ½ t ground coriander
+  ½ t cumin
+  ½ t pepper
+  1 t cinnamon
+  ½ t dry mint
+  2 T sesame oil
+Cook ½ hour until drier. Mix with 
+  (optional) 1¼ c walnuts, ground in food processor
+  5 eggs
+Fry as patties.
+===
+75 - Stuffed Bell Peppers
+Makes: 6 servings (6 peppers)
+
+  6 large bell peppers
+  1 lb. beef
+  ½ c onion, diced
+  1 can diced tomato
+  ½ c uncooked rice
+  1 c water
+  1 t salt
+  dash pepper
+  1 t worcestershire sauce
+  1 c shredded cheese
+
+1. Clean peppers. Cut up tops. If green, boil 5 minutes
+   first and salt insides.
+2. Cook ground beef, onion, pepper tops.
+3. Cook rice separately (20 min or until done)
+4. Add to beef mixture: cooked rice, tomato, spices.
+   Stir in cheese.
+5. Stuff peppers. Top with more cheese.
+
+Zak's tip: Green peppers suck
+===
+76 - Waffles, Oat
+Source: Fenn (inventor), Zachary (dry mix and recipe
+  writing)
+
+Oat Waffle 
+  1½ c oats, ground in a coffee grinder
+  ¼ c coconut oil, melted 
+    OR ¼ c olive oil
+    OR ¼ c sunflower oil
+  1 egg
+  ¼ t salt
+  molasses
+  ½ c milk OR ½ c evaporated milk
+  (optional) chocolate chips
+  (optional) currants
+
+Waffle Mix
+  16 c oats, ground (= 1 container oats)
+  4 c powdered milk
+  4 t salt
+  1¼ c powdered egg
+Oat Waffle from Mix
+  1½ c waffle mix (above)
+  ¼ c oil
+  ½ c water
+  molasses
+  (optional) chocolate chips
+  (optional) currants
+
+Good Toppings 
+  butter
+  bananas
+  sour cream and apricot preserves
+
+1. Combine waffle ingredients.
+2. Cook until it stops steaming in waffle maker.
+3. Add toppings (optional).
