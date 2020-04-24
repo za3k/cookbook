@@ -46,10 +46,13 @@ find tmp-ps -type f | sort | xargs psjoin >tmp-cookbook-big.ps
 #find tmp-txt -type f | sort | cat >cookbook.txt
 
 # Make a tiny book, 4 pages per sheet
-pstops -Pletter -pletter 4:1,2,3,0 <tmp-cookbook-big.ps >tmp-cookbook-shuffled.ps
+# Original, 1 sheet = 4 pages per signature
+#pstops -Pletter -pletter 4:1,2,3,0 <tmp-cookbook-big.ps >tmp-cookbook-shuffled.ps
+# New, 4 sheets = 16 pages per signature
+pstops -Pletter -pletter 16:15,0,1,14,13,2,3,12,11,4,5,10,9,6,7,8 <tmp-cookbook-big.ps >tmp-cookbook-shuffled.ps
 psnup -2 -pletter -Pletter -d <tmp-cookbook-shuffled.ps >cookbook.ps
 #rm -rf tmp-*
 
 echo
 echo "To print run:"
-echo "cat cookbook.ps | ssh avalanche PRINTER=HL2270DW lp -o sides=two-sided-short-edge -o media=letter"
+echo "cat cookbook.ps | ssh pi-printer PRINTER=HL2270DW lp -o sides=two-sided-short-edge -o media=letter"
