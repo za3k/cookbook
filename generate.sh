@@ -61,8 +61,8 @@ psnup -2 -pletter -Pletter -d <tmp-cookbook-shuffled.ps >cookbook.ps
 #rm -rf tmp-*
 
 # Generate PDF files
-pstops tmp-cookbook-big.ps cookbook-big.pdf
-pstops cookbook.ps cookbook-small.pdf
+ps2pdf tmp-cookbook-big.ps cookbook-big.pdf
+ps2pdf cookbook.ps cookbook-small.pdf
 
 echo
 echo "To print run:"
