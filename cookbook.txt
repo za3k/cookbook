@@ -382,9 +382,21 @@ Zak's tip: They are actually okay crackers and keep
 Zak's tip: These cause inflammation due to the wheat.
 ===
 10 - Bread, Cornbread
-Source: Grandma Vance
 
-TODO
+¼  c salted butter, melted
+1  c milk
+1  egg
+1¼ c cornmeal
+1  c all-purpose flour
+½  c sugar
+1  T baking powder
+½  t salt
+
+1. Beat melted butter, milk, egg.
+2. Add cornmeal, flour, sugar, baking powder, salt.
+3. Stir until moistened. Batter will be lumpy.
+4. Pour batter into greased 8x8" pan. Smooth top.
+5. Bake 20-25 minutes at 400°F.
 ===
 11 - Bread, Flour Tortillas
 Makes: 16 6-inch soft tortillas.
@@ -1589,7 +1601,7 @@ Notes:
 Takes a really long time to dry enough, listed time
   is not enough. Find a recipe with less milk/liquid
 ===
-Egg, Dada's Quiche
+63 - Egg, Dada's Quiche
 
 1. slice bottom of frozen pie crust to prevent bubbling
    careful to not slice through aluminum foil
