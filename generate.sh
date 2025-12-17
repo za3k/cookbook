@@ -41,27 +41,30 @@ fi
 # What's the max limit on page height? At least 40, let's say 40?
 
 # Generate .ps files for each txt file
-rm -rf tmp-ps
-mkdir -p tmp-ps
+rm -rf tmp-ps tmp-ps-a5
+mkdir -p tmp-ps tmp-ps-a5
 for x in tmp-txt/*; do
   paps --paper letter --top-margin=50 --font "DejaVuSansMono 14" -o tmp-ps/$(basename ${x}).ps <${x}
+  #paps --paper 45 --top-margin=50 --font "DejaVuSansMono 14" -o tmp-ps-a5/$(basename ${x}).ps <${x}
 done
 
 # Combine the .ps files
 rm -rf tmp-cookbook-big.ps
 find tmp-ps -type f | sort | xargs psjoin >tmp-cookbook-big.ps
-#find tmp-txt -type f | sort | cat >cookbook.txt
+pstops -Pletter -pA5 '1:0@0.686(0,0)' <tmp-cookbook-big.ps >tmp-cookbook-a5.ps
+
+#rm -rf tmp-cookbook-a5.ps
 
 # Make a tiny book, 4 pages per sheet
 # Original, 1 sheet = 4 pages per signature
 #pstops -Pletter -pletter 4:1,2,3,0 <tmp-cookbook-big.ps >tmp-cookbook-shuffled.ps
 # New, 4 sheets = 16 pages per signature
 pstops -Pletter -pletter 16:15,0,1,14,13,2,3,12,11,4,5,10,9,6,7,8 <tmp-cookbook-big.ps >tmp-cookbook-shuffled.ps
-psnup -2 -pletter -Pletter -d <tmp-cookbook-shuffled.ps >cookbook.ps
-#rm -rf tmp-*
+psnup -2 -Pletter -pletter -d <tmp-cookbook-shuffled.ps >cookbook.ps
 
 # Generate PDF files
 ps2pdf tmp-cookbook-big.ps cookbook-big.pdf
+ps2pdf -sPAPERSIZE=a5 tmp-cookbook-a5.ps cookbook-a5.pdf
 ps2pdf cookbook.ps cookbook-small.pdf
 
 echo
