@@ -97,7 +97,6 @@ Pasta with White Sauce..................92
 Pesto...................................93*
 Pie, Meat Hand Pies.....................94
 Pizza...................................95
-  Toppings..............................95
 Popcorn.................................96
 Pork, Pernil............................97
 Pork, Pulled............................98
@@ -1269,8 +1268,41 @@ Source: Sammy (original tennislifemag.com)
 ===
 47 - Curry, Thai Yellow
 Source: Parents
+Serves: 2-3
 
-TODO
+  1 c rice (we use brown instant rice)
+  1 c of chopped green (or yellow or red) sweet pepper
+  1 c of chopped tomato
+  1 chicken breast, chopped
+  ¼ small sweet onion, chopped (optional)
+  1 c of pineapple chunks
+  3 T of vegetable oil
+  1 can coconut milk
+  *1 T curry paste (green/yellow/red/masaman)
+  *1½ T Javin Brand curry powder
+
+  *Found at oriental food stores
+
+1. Start rice early enough it's ready with the curry.
+2. Heat oil in frying pan, medium heat.
+3. Add curry powder. Stir to make paste.
+4. Add curry paste. C chop with wooden spoon and stir.
+5. Add coconut milk from top of can, throw away any oil
+   from the bottom part.
+6. Add chicken. Let cook for a few minutes, then flip
+   each chicken piece to ensure it cooks throughout.
+7. Add onion. The onion needs to be on the bottom or it
+   won’t soften.
+8. Add sweet pepper and tomato. The green gives a nice
+   color to the food, but I think the other taste
+   better, so choose what you like.
+9. Cover with lid – it will spatter your stove
+   otherwise.
+10. Stir occasionally until done.
+11. Add pineapple and re-cover for a few minutes to get
+    the pineapple to the same temperature as the rest.
+12. Serve over rice. To be fully authentic, have a
+    Singha beer!
 ===
 48 - Dip, 5-Layer
 
@@ -1312,7 +1344,23 @@ Serve cold with tortilla chips.
 51 - Dip, Hummus
 Source: Mama and Dada
 
-TODO
+  1 c chickpeas, canned
+  ⅓ c tahini
+  ⅓ c lemon juice
+  cumin powder
+
+1. Drain canned chickpeas, saving the liquid.
+2. Put chickpeas in blender.
+3. Add tahini, lemon juice, and cumin. Tahini typically
+   separates in the container, so be sure to add both
+   the liquid and solid parts.
+4. Add some chickpea liquid as needed to get it to
+   blend. Finding a blender that works for this is the
+   hard part. We had to play with the blender setting
+   as well as the amount of chickpea liquid.
+5. The amount of cumin depends on how you like it
+   (taste-wise and viscosity). The age of the powder
+   also matters. Older powder loses strength.
 ===
 52 - Dip, Guacamole
 
@@ -1784,7 +1832,7 @@ Keeps: 1 day, can't be frozen
 
 Zak's tip: Chicken liver is much tastier medium-done
   than cooked all the way.
-===
+---
 76 - Meatballs, Chicken (Koftas)
 Source: Mama
 
@@ -1907,7 +1955,7 @@ V2
    cheddar cheese, enough to cover
 2. Microwave for 1 minute
 3. Spoon a little lao gan ma onto each cracker
-===
+==
 82 - Onions, Quick Pickled
 Source: cookieandkate.com
 
@@ -2220,8 +2268,6 @@ Knead, adding
    oven. Burns easily but should be a fast cook.
    Bubbles may form, use a rolling pin or poke holes to
    prevent them. Stretch by hand to get them.
-===
-95 - Pizza Toppings
 
 Pesto toppings
   Pesto to cover

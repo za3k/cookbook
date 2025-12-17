@@ -28,7 +28,7 @@ done
 # Check width
 MAX_LENGTH=$(wc -L tmp-txt/* | tail -n1 | awk '{print $1}')
 if [ "$MAX_LENGTH" -gt 55 ]; then 
-  echo "Cookbook too wide"
+  echo "Cookbook too wide (limit is 55)"
   for x in tmp-txt/*; do
     LENGTH=$(wc -L "$x" | tail -n1 | awk '{print $1}')
     if [ "$LENGTH" -gt 55 ]; then
